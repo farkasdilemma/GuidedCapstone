@@ -1,2 +1,1 @@
-# GuidedCapstone
 project repo
